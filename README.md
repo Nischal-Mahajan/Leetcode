@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0001-two-sum) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nischal-Mahajan/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Nischal-Mahajan/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Stack
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nischal-Mahajan/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Nischal-Mahajan/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
