@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0200-number-of-islands) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nischal-Mahajan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -192,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Nischal-Mahajan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
