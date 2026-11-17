@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0455-assign-cookies) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nischal-Mahajan/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Nischal-Mahajan/Leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Nischal-Mahajan/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -36,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0455-assign-cookies) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nischal-Mahajan/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0455-assign-cookies](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0455-assign-cookies) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nischal-Mahajan/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
 |  |
@@ -172,4 +175,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
