@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0455-assign-cookies) |
+| [0692-top-k-frequent-words](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0860-lemonade-change](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0860-lemonade-change) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Nischal-Mahajan/Leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nischal-Mahajan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0451-sort-characters-by-frequency](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Greedy
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0455-assign-cookies) |
+| [0692-top-k-frequent-words](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nischal-Mahajan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Nischal-Mahajan/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Enumeration
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -201,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [1833-maximum-ice-cream-bars](https://github.com/Nischal-Mahajan/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Dynamic Programming
 |  |
@@ -211,8 +216,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0692-top-k-frequent-words](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
