@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Backtracking
 |  |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0061-rotate-list) |
 | [0455-assign-cookies](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0455-assign-cookies) |
 ## Quicksort
 |  |
