@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0055-jump-game) |
+| [0078-subsets](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0113-path-sum-ii) |
 ## Matrix
 |  |
@@ -231,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0692-top-k-frequent-words) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
