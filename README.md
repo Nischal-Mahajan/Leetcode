@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0053-maximum-subarray) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0455-assign-cookies) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0061-rotate-list) |
 | [0455-assign-cookies](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0455-assign-cookies) |
 ## Quicksort
