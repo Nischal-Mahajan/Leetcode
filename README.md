@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0860-lemonade-change](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0860-lemonade-change) |
 | [0989-add-to-array-form-of-integer](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -250,4 +251,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0989-add-to-array-form-of-integer](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Nischal-Mahajan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
